@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-07T16:06:42 IST" name="Default suite" finished-at="2026-01-07T16:06:54 IST" duration-ms="12642">
+    <groups>
+    </groups>
+    <test started-at="2026-01-07T16:06:42 IST" name="Default test" finished-at="2026-01-07T16:06:54 IST" duration-ms="12642">
+      <class name="saucedemo_TestCase.FlowTestCase">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:41 IST" name="beforeSuite" finished-at="2026-01-07T16:06:42 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:42 IST" name="setupClass" finished-at="2026-01-07T16:06:49 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:50 IST" name="startTest" finished-at="2026-01-07T16:06:50 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.loginTest(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:50 IST" name="loginTest" data-provider="loginData" finished-at="2026-01-07T16:06:51 IST" duration-ms="355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SUCCESS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:51 IST" name="startTest" finished-at="2026-01-07T16:06:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.addTocartTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="addTocartTest()[pri:2, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:51 IST" name="addTocartTest" finished-at="2026-01-07T16:06:51 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.loginTest" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocartTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:51 IST" name="startTest" finished-at="2026-01-07T16:06:51 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.CartTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="CartTest()[pri:3, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:51 IST" name="CartTest" finished-at="2026-01-07T16:06:53 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.addTocartTest" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="startTest" finished-at="2026-01-07T16:06:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.checkoutTest(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="checkoutTest(java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="checkoutTest" data-provider="checkoutData" finished-at="2026-01-07T16:06:53 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.CartTest" duration-ms="214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ronak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ved]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="startTest" finished-at="2026-01-07T16:06:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.OrderSummaryTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="OrderSummaryTest()[pri:5, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="OrderSummaryTest" finished-at="2026-01-07T16:06:53 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.checkoutTest" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderSummaryTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="startTest" finished-at="2026-01-07T16:06:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.ThankYouTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="ThankYouTest()[pri:6, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="ThankYouTest" finished-at="2026-01-07T16:06:53 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.OrderSummaryTest" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThankYouTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="startTest" finished-at="2026-01-07T16:06:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void saucedemo_TestCase.FlowTestCase.LogoutTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="LogoutTest()[pri:7, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="LogoutTest" finished-at="2026-01-07T16:06:53 IST" depends-on-methods="saucedemo_TestCase.FlowTestCase.ThankYouTest" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="teardownClass()[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:53 IST" name="teardownClass" finished-at="2026-01-07T16:06:54 IST" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:saucedemo_TestCase.FlowTestCase@2c4ca0f9]" started-at="2026-01-07T16:06:54 IST" name="afterSuite" finished-at="2026-01-07T16:06:55 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- saucedemo_TestCase.FlowTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
