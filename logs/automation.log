@@ -424,3 +424,88 @@
 2026-01-07 16:06:53 [INFO] Clicked Logout Button
 2026-01-07 16:06:54 [INFO] Browser closed after FLOW test
 2026-01-07 16:06:55 [INFO] ExtentReports flushed
+2026-01-13 15:57:18 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 15:57:26 [INFO] Browser started for FLOW test
+2026-01-13 15:57:27 [INFO] Login attempt for user: standard_user
+2026-01-13 15:57:28 [INFO] Entered username: standard_user
+2026-01-13 15:57:28 [INFO] Entered password
+2026-01-13 15:57:28 [INFO] Clicked login button
+2026-01-13 15:57:28 [INFO] User try to add items to cart
+2026-01-13 15:57:28 [INFO] Item added to cart
+2026-01-13 15:57:28 [INFO] Cart is opened
+2026-01-13 15:57:28 [INFO] user try to move on checkout page
+2026-01-13 15:57:28 [INFO] Clicked on Checkout Button
+2026-01-13 15:57:30 [INFO] Checkout for user: Ronak
+2026-01-13 15:57:30 [INFO] Entered First name: Ronak
+2026-01-13 15:57:30 [INFO] Entered Last name: Ved
+2026-01-13 15:57:30 [INFO] Entered Postal Code: 400080
+2026-01-13 15:57:30 [INFO] Clicked Continue Button
+2026-01-13 15:57:30 [INFO] user clicks on finish button
+2026-01-13 15:57:30 [INFO] Clicked Finish button
+2026-01-13 15:57:30 [INFO] user clicks on back home button
+2026-01-13 15:57:30 [INFO] Clicked Back Home button
+2026-01-13 15:57:30 [INFO] user clicks on logout Button
+2026-01-13 15:57:30 [INFO] Clicked on Menu Button
+2026-01-13 15:57:31 [INFO] Clicked Logout Button
+2026-01-13 15:57:32 [INFO] Browser closed after FLOW test
+2026-01-13 15:57:32 [INFO] ExtentReports flushed
+2026-01-13 15:59:50 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 15:59:56 [INFO] Browser started for FLOW test
+2026-01-13 15:59:58 [INFO] Login attempt for user: standard_user
+2026-01-13 15:59:58 [INFO] Entered username: standard_user
+2026-01-13 15:59:58 [INFO] Entered password
+2026-01-13 15:59:58 [INFO] Clicked login button
+2026-01-13 15:59:59 [INFO] Browser closed after FLOW test
+2026-01-13 16:00:00 [INFO] ExtentReports flushed
+2026-01-13 16:01:44 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:01:50 [INFO] Browser started for FLOW test
+2026-01-13 16:01:51 [INFO] Login attempt for user: standard_user
+2026-01-13 16:01:51 [INFO] Entered username: standard_user
+2026-01-13 16:01:51 [INFO] Entered password
+2026-01-13 16:01:52 [INFO] Clicked login button
+2026-01-13 16:01:53 [INFO] Browser closed after FLOW test
+2026-01-13 16:01:53 [INFO] ExtentReports flushed
+2026-01-13 16:08:05 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:08:11 [INFO] Browser started for FLOW test
+2026-01-13 16:08:12 [INFO] Login attempt for user: standard_user
+2026-01-13 16:08:12 [INFO] Entered username: standard_user
+2026-01-13 16:08:13 [INFO] Entered password
+2026-01-13 16:08:13 [INFO] Clicked login button
+2026-01-13 16:08:14 [INFO] Browser closed after FLOW test
+2026-01-13 16:08:14 [INFO] ExtentReports flushed
+2026-01-13 16:18:51 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:21:13 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:21:42 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:22:43 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:22:50 [INFO] Browser started for FLOW test
+2026-01-13 16:22:51 [INFO] Login attempt for user: standard_user
+2026-01-13 16:22:51 [INFO] Entered username: standard_user
+2026-01-13 16:22:51 [INFO] Entered password
+2026-01-13 16:22:51 [INFO] Clicked login button
+2026-01-13 16:22:52 [INFO] Browser closed after FLOW test
+2026-01-13 16:22:53 [INFO] ExtentReports flushed
+2026-01-13 16:23:15 [INFO] ExtentReports initialized at V:\Selenium_Workspace\sauce_demo/test-output/ExtentReport.html
+2026-01-13 16:23:21 [INFO] Browser started for FLOW test
+2026-01-13 16:23:23 [INFO] Login attempt for user: standard_user
+2026-01-13 16:23:23 [INFO] Entered username: standard_user
+2026-01-13 16:23:23 [INFO] Entered password
+2026-01-13 16:23:23 [INFO] Clicked login button
+2026-01-13 16:23:23 [INFO] User try to add items to cart
+2026-01-13 16:23:23 [INFO] Item added to cart
+2026-01-13 16:23:23 [INFO] Cart is opened
+2026-01-13 16:23:23 [INFO] user try to move on checkout page
+2026-01-13 16:23:23 [INFO] Clicked on Checkout Button
+2026-01-13 16:23:25 [INFO] Checkout for user: Ronak
+2026-01-13 16:23:25 [INFO] Entered First name: Ronak
+2026-01-13 16:23:25 [INFO] Entered Last name: Ved
+2026-01-13 16:23:25 [INFO] Entered Postal Code: 400080
+2026-01-13 16:23:25 [INFO] Clicked Continue Button
+2026-01-13 16:23:25 [INFO] user clicks on finish button
+2026-01-13 16:23:25 [INFO] Clicked Finish button
+2026-01-13 16:23:25 [INFO] user clicks on back home button
+2026-01-13 16:23:25 [INFO] Clicked Back Home button
+2026-01-13 16:23:25 [INFO] user clicks on logout Button
+2026-01-13 16:23:25 [INFO] Clicked on Menu Button
+2026-01-13 16:23:25 [INFO] Clicked Logout Button
+2026-01-13 16:23:27 [INFO] Browser closed after FLOW test
+2026-01-13 16:23:27 [INFO] ExtentReports flushed

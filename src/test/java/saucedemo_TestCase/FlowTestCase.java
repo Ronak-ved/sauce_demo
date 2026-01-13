@@ -147,7 +147,7 @@ public class FlowTestCase extends BaseTest {
     }
     
     //user is home page and try to logout
-    @Test(priority = 7, dependsOnMethods ="ThankYouTest")
+    @Test(priority = 7, dependsOnMethods ="loginTest")
     public void LogoutTest() {
 
         HomePage_POM Logout = new HomePage_POM(driver);
