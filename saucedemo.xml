@@ -4,9 +4,9 @@
   <test thread-count="5" name="Login Functional Tests with Data-Driven" preserve-order="true">
     <classes>
       <class name="saucedemo_TestCase.FlowTestCase">
-      <methods>
+      <method>
       <include name="loginTest"></include>
-      </methods>
+      </method>
       </class>
     </classes>
   </test> <!-- Test -->
